@@ -11,5 +11,5 @@ Therefore it's possible to use it with Stardict on Windows/Linux/OSX, Colordict(
 
 Ready to use dictionary files are [here](http://dictionaries.arnet.am/baratian.zip).
 
-see also [this](https://norayr.am/weblog/2016/05/18/baratian/) blog post.
+see also [this](http://norayr.am/weblog/2016/05/18/baratian/) blog post.
 
